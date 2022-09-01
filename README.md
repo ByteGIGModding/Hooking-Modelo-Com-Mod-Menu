@@ -18,6 +18,3 @@ This is how the menu looks like when you simply build and run it
 ![Mod Menu Layout](Images/ModMenu.PNG)
 
 </details>
-
-### Credits:
-https://github.com/jmpews/Dobby
