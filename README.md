@@ -7,9 +7,7 @@ This is a simple template for the usage of Dobby with a Mod Menu written in Java
 
 ### Tutorial:
 * https://guidedhacking.com/threads/function-pointers-and-a-tutorial-for-my-hooking-template.14771/#post-90490]  
-<a href="https://piin.dev"><img src="https://github.com/L3DEVIL369/Hooking-Modelo-Com-Mod-Menu/blob/Dobby/Images/ModMenu.PNG" width="100" height="100"/></a>
 
- 
 <details>
 
 <summary>Layout:</summary>
